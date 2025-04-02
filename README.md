@@ -17,6 +17,7 @@
  
 <div> 
  
-  <a href="https://www.com/millaxl?igsh=ZHp3bWJtcjhvM3h3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/millaxl?igsh=aW0ybjl1djQzcDVp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   
   
